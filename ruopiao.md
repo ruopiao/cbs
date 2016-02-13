@@ -1,6 +1,6 @@
 # Hot dog
 
 - Heat bun
-- Microwave hot dog
+- Heat the hot dog in the grill
 - Add ketchup
 - Enjoy
